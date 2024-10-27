@@ -25,8 +25,8 @@ https://www.asidesigned.com/project-libft.html
 
 ### Functions from `<ctype.h>`
 
-- [`ft_isalpha`](ft_isalpha.c)	- checks  for  an  alphabetic  character.
-- [`ft_isdigit`](ft_isdigit.c)	- checks for a digit (0 through 9).
+- [`ft_isalpha`](.String/ft_isalpha.c)	- checks  for  an  alphabetic  character.
+- [`ft_isdigit`](.String/ft_isdigit.c)	- checks for a digit (0 through 9).
 - [`ft_isalnum`](ft_isalnum.c)	- checks for an alphanumeric character.
 - [`ft_isascii`](ft_isascii.c)	- checks whether c fits into the ASCII character set.
 - [`ft_isprint`](ft_isprint.c)	- checks for any printable character.
